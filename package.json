@@ -4,6 +4,7 @@
   "description": "View images inside VSCode",
   "version": "0.0.1",
   "publisher": "reflog",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/reflog/vscode-image-viewer.git"
